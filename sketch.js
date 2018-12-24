@@ -16,7 +16,7 @@ const sketch = ({ width, height }) => {
     .domain([-2.182, 2.6558])
     .range([0, width]);
 
-  const scaleY = scaleLinear([])
+  const scaleY = scaleLinear()
     .domain([0, 9.9983])
     .range([height, 0]);
 
