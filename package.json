@@ -1,0 +1,16 @@
+{
+  "name": "barnsley-fern-canvas-sketch",
+  "version": "1.0.0",
+  "description": "barnsley fern in canvas-sketch",
+  "main": "sketch.js",
+  "scripts": {
+    "start": "canvas-sketch --open sketch.js"
+  },
+  "keywords": [],
+  "author": "Markus Hsi-Yang Fritz <markus.h.y.fritz@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-sketch": "^0.1.1",
+    "d3-scale": "^2.1.2"
+  }
+}
